@@ -1,0 +1,61 @@
+{
+
+  "nom_taxon":"SCARABAEUS",
+
+  "descripteur":"Linné, 1758",
+
+  "texte_description":"Corps large, peu convexe, ailé. Tête très large, clypéus saillant en lame quadridentée en avant, les angles antérieurs des joues saillants en dents en avant. Thorax transverse, à angle postérieurs arrondis. Ecusson nul. Elytres larges, striés, interstries plans ou convexes. Pygidium vertical, rebordé à la base. Métasternum assez étroit, mésosternum court. Hanches intérmédiaires et postérieures obliques, les postérieurs contigues en arrière. Tibias des paires postérieures longs et grêles, peu élargis de la base à l'apex, avec un seul éperon terminal. Tarses des paires postérieures assez long et grêles, à articles subégaux en longeur.",
+
+  "source":"R.PAULIAN (FdeFr38)",
+  "propositions":[
+    {
+      "proposition":[
+        {
+          "ID":"1",
+          "proposition_a":{
+            "question":"Troncature apicale des tibias postérieurs oblique, prolongée en des-sous par une lame aplatie (62)",
+            "direction":"2"
+          },
+          "proposition_b":{
+            "question":"Troncature apicale des tibias postérieurs droite, le tarse inséré sur la tronchature, terminal. (60).",
+            "direction":"4"
+          }
+        },
+        {
+          "ID":"2",
+          "proposition_a":{
+            "question":"Pubescence des côtés du thorax noire ; tibias postérieurs des mâles à frange interne depubescence noire. Ponctuation du pygidium forte et assez dense, celle du front dense et confluente",
+            "direction":"Scarabaeus pius"
+          },
+          "proposition_b":{
+            "question":"Pubescence des côtés du thorax brun-rouge ou rousse; tibias postérieurs des mâles à frange interne de pubescence rousse.",
+            "direction":"3"
+          }
+        },
+        {
+          "ID":"3",
+          "proposition_a":{
+            "question":"Ponctuation du front éparse et  peu forte, celle du pygidium éparse et très fine; front avec deux forts tubercules entre les yeux",
+            "direction":"Scarabaeus sacer"
+          },
+          "proposition_b":{
+            "question":"Ponctuation du front dense et forte, celle du pygidium bien marquée mais éparse; front sans tubercules ou avec des tubercules à peine indiqués",
+            "direction":"Scarabaeus affinis"
+          }
+        },
+         {
+          "ID":"4",
+          "proposition_a":{
+            "question":"Cuisses postérieures avec une échancrure plus ou moins grande près de la  base sur l'arête postérieure",
+            "direction":"Scarabaeus semipunctatus"
+          },
+          "proposition_b":{
+            "question":"Cuisses postérieures sans échancrure près de la base",
+            "direction":"Scarabaeus laticollis"
+          }
+        }
+
+      ]
+    }
+  ]
+}
