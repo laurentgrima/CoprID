@@ -1,0 +1,323 @@
+{
+
+  "nom_taxon":"Trogidae",
+  "famille":"Trogidae",
+  "descripteur":"Linné, 1758",
+
+  "texte_description":"Corps large, peu convexe, ailé. Tête très large, clypéus saillant en lame quadridentée en avant, les angles antérieurs des joues saillants en dents en avant. Thorax transverse, à angle postérieurs arrondis. Ecusson nul. Elytres larges, striés, interstries plans ou convexes. Pygidium vertical, rebordé à la base. Métasternum assez étroit, mésosternum court. Hanches intérmédiaires et postérieures obliques, les postérieurs contigues en arrière. Tibias des paires postérieures longs et grêles, peu élargis de la base à l'apex, avec un seul éperon terminal. Tarses des paires postérieures assez long et grêles, à articles subégaux en longeur.",
+
+  "source":"R.PAULIAN (FdeFr38)",
+  "propositions":[
+    {
+      "proposition":[
+        {
+          "ID":"1",
+          "proposition_a":{
+            "question":"Pilosité noire ou brun-noir, au moins sur les élytres",
+            "direction":"2"
+          },
+          "proposition_b":{
+            "question":"Pilosité entièrement jaune clair",
+            "direction":"5"
+          }
+        },
+        {
+          "ID":"2",
+          "proposition_a":{
+            "question":"Elytres avec des fosettes alignées, séparées par des grosses carènes lisses reliantles interstries les uns aux autres, sans tubercules discernables. - Sardaigne, Corse",
+            "direction":"Trox cribrum/clathratus"
+          },
+          "proposition_b":{
+            "question":"Interstries non reliés les uns aux autres, portant des tubercules bien délimités",
+            "direction":"3"
+          }
+        },
+        {
+          "ID":"3",
+          "proposition_a":{
+            "question":"Bord latéral des élytres avec une rangée de poils brun-noir au moins aussi longsque la plus grande largeur de l'épipleure; poils des côtés et de la base du pronotumbrun foncé, également très longs. Pronotum chagriné, à reliefs très atténués et ponctuation uniformément dense. - Espagne",
+            "direction":"Trox cotodognanensis"
+          },
+          "proposition_b":{
+            "question":"Bord latéral des élytres avec une rangée de poils très courts ; poils des côtésdu pronotum très épais et très courts. Pronotum avec des reliefs très accusés, les parties relevées lisses entre les gros points",
+            "direction":"4"
+          }
+        },
+         {
+          "ID":"4",
+          "proposition_a":{
+            "question":"Interstries impairs avec des tubercules peu nombreux, beaucoup plus gros queceux des interstries pairs. Stries sinueuses, contournant les gros tubercules. -Europe occidentale",
+            "direction":"Trox perlatus perlatus"
+          },
+          "proposition_b":{
+            "question":"Interstries impairs avec des tubercules deux fois plus nombreux, guère plus grosque ceux des interstries pairs. Stries à peu près droites. - Espagne, Portugal",
+            "direction":"Trox perlatus hispanicus"
+          }
+        },
+        {
+          "ID":"5",
+          "proposition_a":{
+            "question":"Interstries avec une rangée de granules très fins, très serrés, chacun portant un petit poil dressé. - Europe orientale",
+            "direction":"Trox eversmanni"
+          },
+          "proposition_b":{
+            "question":"Interstries impairs avec des tubercules plus ou moins gros, entièrement ou partiellementcouverts de poils, ou avec une rangée de poils sur leur bord postérieur;inters tries pairs avec en général des tubercules plus petits, rarement réduitsà l'état de granules. Dans un cas (T. transversus Reiche), il n'y a ni granules ni tubercules, mais seulement une réticulation de grosses rides lisses",
+            "direction":"6"
+          }
+        },
+        {
+          "ID":"6",
+          "proposition_a":{
+            "question":"Côtés du pronotum très largement échancrés avant les angles postérieurs quisont très aigus et dirigés vers l'arrière. Elytres couverts d'une grosse réticulationreliant les intervalles entre eux; stries visibles seulement par l'alignement depoints peu serrés. - Grèce",
+            "direction":"Trox transversus"
+          },
+          "proposition_b":{
+            "question":"Côtés du pronotum non ou faiblement sinués avant les angles postérieurs quisont saillants ou non mais jamais aigus. Interstries bien délimités; stries biengravées, avec une ponctuation plus serrée",
+            "direction":"7"
+          }
+        },
+        {
+          "ID":"7",
+          "proposition_a":{
+            "question":"Bord latéral des élytres avec une rangée de longs poils, au moins égaux la plusgrande largeur des épipleures. Interstries élytraux impairs guère plus larges queles pairs, mais avec des tubercules aplatis beaucoup plus grands. - Espagne,Caucase",
+            "direction":"Trox granulipennis"
+          },
+          "proposition_b":{
+            "question":"Bord épipleural des élytres avec une rangée de poils très courts, sauf chez T.morticinii Pallas",
+            "direction":"8"
+          }
+        },
+        {
+          "ID":"8",
+          "proposition_a":{
+            "question":"Tous les interstries de largeur égale, portant des tubercules aplatis, pas plusgros ni plus élevés sur les inters tries impairs que sur les pairs",
+            "direction":"9"
+          },
+          "proposition_b":{
+            "question":"Interstries impairs plus larges que les pairs et portant des tubercules plus groset plus élevés",
+            "direction":"11"
+          }
+        },
+        {
+          "ID":"9",
+          "proposition_a":{
+            "question":"Espèce petite (6 mm). Stries élytrales profondes, presque aussi larges que lesinterstries qui sont bien convexes. Bord latéral des élytres avec une rangée de très petits poils, beaucoup plus courts que ceux du disque. - France, Allemagne,Italie, Espagne",
+            "direction":"Trox perrisi"
+          },
+          "proposition_b":{
+            "question":"Espèces moyennes ou grandes (8 - 14 mm). Stries élytrales peu profondes, àfond plat, deux ou trois fois moins larges que les interstries qui sont plans outrès peu convexes. Bord latéral des élytres avec une rangée de poils au moinsausi longs que ceux du disque",
+            "direction":"10"
+          }
+        },
+        {
+          "ID":"10",
+          "proposition_a":{
+            "question":"Base du pronotum avec de chaque côté une grande zone imponctuée. Interstriesélytraux portant une série de gros tubercules très rapprochés, aplatis, glabres,portant tout au plus deux à cinq petits poils à leur bord postérieur. Bord externedes élytres avec une rangée de poils assez longs. - URSS",
+            "direction":"Trox morticinii"
+          },
+          "proposition_b":{
+            "question":"Base du pronotum sans plages imponctuées. Interstries élytraux presque plans,avec des tubercules à peine relevés et qui ne sont vraîment discernables queparce qu'ils sont entourés d'une rangée de poils courts. Bord externe des élytresavec une rangée de poils de longueur normale. - Europe centrale et orientale",
+            "direction":"Trox cadaverinus"
+          }
+        },
+        {
+          "ID":"11",
+          "proposition_a":{
+            "question":"Interstries élytraux avec des tubercules très allongés, peu relevés, visibles parcequ ' ils sont couverts de petits poils",
+            "direction":"12"
+          },
+          "proposition_b":{
+            "question":"Interstries élytraux avec des tubercules ovales ou rectangulaires, lisses, avecseulement des poils sur leur bord postérieurs ou, très rarement, sur leur moitié postérieur",
+            "direction":"13"
+          }
+        },
+        {
+          "ID":"12",
+          "proposition_a":{
+            "question":"Petite espèce (5 - 7 mm). Stries élytrales étroites, à ponctualion peu profonde,leurs bords presque rectilignes. Scutellum étroit. - Toute l'Europe",
+            "direction":"Trox scaber"
+          },
+          "proposition_b":{
+            "question":"Espèce moyenne (8 - 9 mm). Stries élytrales presque aussi larges qucles interstriespairs, avec une ponctuation grosse et profonde, les bords nettement ondulés. Scutellum large à la base. - Toute l'Europe",
+            "direction":"Trox sabulosus"
+          }
+        },
+        {
+          "ID":"13",
+          "proposition_a":{
+            "question":"Pronotum assez lisse et très peu ponctué sur ses parties relevées. Côtés du pronotumlargement arrondis en arrière, non ou très faiblement sinués avant lesangles postérieurs qui sont à peine ou pas du tout marqués. Interstries élytrauxrubannés, les impairs un peu plus larges que les pairs, avec des tubercules engénéral rectangulaires, aplatis, pourvus d' une rangée de 4 à 10 poils sur leurbord postérieur. - Espagne, Portugal",
+            "direction":"Trox leonardii"
+          },
+          "proposition_b":{
+            "question":"Ponctuation du pronotum dense, parfois moins sur les parties relevées du disque.Côtés du pronotum légèrement sinués avant les angles postérieurs qui sont bienmarqués ou saillants. Interstries élytraux garnis de tubercules ovales, bien nets,beaucoup plus grands sur les impairs que sur les pairs",
+            "direction":"14"
+          }
+        },
+        {
+          "ID":"14",
+          "proposition_a":{
+            "question":"Espèce brachyptère. Calus huméral non saillant. Poils des élytres très petits. -Espagne méridionale, Sicile",
+            "direction":"Trox fabricii"
+          },
+          "proposition_b":{
+            "question":"Espèces ailées. Calus huméral fortement saillant",
+            "direction":"15"
+          }
+        },
+        {
+          "ID":"15",
+          "proposition_a":{
+            "question":"Ponctuation du pronotum forte et serrée sur les parties déprimées, très éparsesur les parties relevées où elle est formée d'un mélange de points assez groset fins. Interstries élytraux impairs un peu plus larges que les pairs, avec degros tubercules ovales peu allongés, peu convexes, portant une rangée de deuxà cinq poils sur leur bord postérieur. Tubercules des interstries pairs de moitiéplus petits que ceux des impairs. - Crimée, Rhodes",
+            "direction":"Trox klapperichi"
+          },
+          "proposition_b":{
+            "question":"Ponctuation du pronotum forte et serrée à peu près uniformément sur toute lasurface. Interstries impairs avec des tubercules ovales, allongés, bien convexes,les pairs avec des tubercules plus petits ou très petits",
+            "direction":"16"
+          }
+        },
+        {
+          "ID":"16",
+          "proposition_a":{
+            "question":"Interstries élytraux impairs avec des gros tubercules ovales, bien convexes, séparéspar une distance au moins égale à leur longueur",
+            "direction":"17"
+          },
+          "proposition_b":{
+            "question":"lnterstries élytraux impairs avec des tubercules ovales allongés, bien convexes,séparés par une distance nettement inférieure à leur longueur",
+            "direction":"18"
+          }
+        },
+        {
+          "ID":"17",
+          "proposition_a":{
+            "question":"Tubercules des interstries impairs avec des poils sur leur moitié postérieure.Interstries pairs avec des très petits tubercules, parfois même alternés avec desimples granules. Stries fortement sinueuses, bien plus étroites que les interstriespairs. - Italie, Yougoslavie, Grèce",
+            "direction":"Trox litoralis"
+          },
+          "proposition_b":{
+            "question":"Tubercules des interstries impairs avec des poils plus longs, mais seulement surleur bord postérieur. Interstries pairs avec des tubercules plus ou moins effacés,parfois remplacés par des granules. Stries très peu oondulées, presque de mêmelargeur que les interstries pairs. Italie, France, Espagne, Portugal, Balkans, Sudde l'Europe centrale",
+            "direction":"Trox hispidus ssp. niger"
+          }
+},
+        {
+          "ID":"18",
+          "proposition_a":{
+            "question":"Tubercules des interstries pairs plus petits, égaux au tiers ou à la moitié deceux des interstries impairs, à peu près circulaires et bien délimités. Tuberculesdes interstries impairs avec une rangée de trois à cinq poils sur leur bord postérieur.- Nord et Ouest de l'Europe",
+            "direction":"Trox hispidus ssp. hispidus"
+          },
+          "proposition_b":{
+            "question":"Tubercules des interstries pairs bien plus petits que ceux des interstries impairs,auxquels ils sont plus ou moins reliés par des carènes transversales. Tuberculesdes interstries impairs avec des poils sur toute leur moitié postérieure. - Sardaigne,Corse",
+            "direction":"Trox nodulosus"
+          }
+        }      ]
+    }
+  ],
+  "especes":[
+        {
+          "nom_taxref":"Trox cadaverinus",
+          "nom_ouvrage":"Trox cadaverinus",
+          "description_ouvrage":"Long. 10-13 mm. Noir; pilosité jaune. Pronotum avec une sculpture forte,entièrement couvert d'une grosse ponctuation régulière, très dense; côtéspresque paralèles en arrière, les angles postérieurs arrondis, un peu saillants.Elytres avec des interstries d'égale largeur, plans, les tubercules non saillantsmais entourés de petits poils. Stries étroites, leurs bords bien ondulés; calushuméral saillant; épine humérale assez forte; pilosité du bord épipleuralcourte. Paramères : figure 3.Répartition : Europe centrale et orientale, de la Suisse à l'URSS. Sibérie. Syrie."
+        },
+        {
+          "nom_taxref":"Trox cotodognanensis",
+          "nom_ouvrage":"Trox cotodognanensis",
+          "description_ouvrage":"Long. 8,5 mm. Noir; pilosité noire, parfois brun foncé sur les côtés dupronotum et sur les pattes antérieures. Pronotum avec une sculpture très atténuée,entièrement couvert de points denses, ombiliqués, irréguliers detaille; côtés arrondis en arrière, les angles postérieurs indistincts; poils descôtés très longs et régulièrement acuminés. Elytres avec des interstries d'égale largeur; tubercules ronds ou ovales, séparés par une distance au pluségale à leur longueur, presque aussi gros sur les interstries pairs que sur lesimpairs, portant quelques poils très courts sur leur bord postérieur; striestrès étroites, droites; calus huméral bien saillant; épine humérale présente;pilosité du bord externe très longue.Répartition : Espagne, Coto Dofiana, Huelva (loc. type). Cadiz."
+        },
+        {
+          "nom_taxref":"Trox cribrum/clathratus",
+          "nom_ouvrage":"Trox cribrum/clathratus",
+          "description_ouvrage":"Trox cribrum cribrum Gené.Long. 8-10 mm. Noir; pilosité noire. Pronotum avec · une sculpture forte,couvert de gros points ombiliqués, très dense sur les parties déprimées, éparsesur les reliefs; côtés arrondis en arrière, les angles postérieurs largementarrondis, non discernables ; poils des côtés épais et très courts. Elytres couvertsde grosses rides lisses formant une réticulation enserrant de grossesfossettes alignées en dix rangées; aucun tubercule visible, pas plus que lesstries; calus huméral faible, mais dent humérale très forte; pilosité du bordexterne courte. Paramères : figure 4.Répartition : Sardaigne (loc. type). Trox cribrum clathratus Reiche.Diffère de la forme nominative par la sculpture élytrale : les rides longitudinalescorrespondant aux interstries impairs sont plus élevées que les ridestransversales; celles qui correspondent aus interstries pairs sont plates et en._foncées; les stries sont par endroits bien discernables.Répartition : Corse.Contrairement à notre opinion première (BARAUD, 1977; PAULIAN & BA·RAUD, 1982), il nous paraît aujourd'hui, aprt-s étude d'un matériel plusimportant, que la forme clathratus constitue une bonne sous-espèce. "
+        },
+        {
+          "nom_taxref":"Trox eversmanni",
+          "nom_ouvrage":"Trox eversmanni",
+          "description_ouvrage":"Long. 6-7 ,5 mm. Noir ou brun-noir; pilosité jaune. Pronotum avec unesculpture très atténuée, réduite à une faible dépression médiane à la base età deux faibles dépressions latérales sur le disque; entièrement couvert depoints moyens, très denses, et d'une courte pilosité dressée; côtés fortementsinués, concaves en arrière avant les angles postérieurs qui sont très saillants;pilosité des côtés épaisse à la base, brièvement acuminée à l'apex. Elytresavec des interstries plans, d'égale largeur, avec une rangée de fins granulestrès denses, portant un poils court et dressé à leur bord postérieur; striesdroites, à bords carénés, avec des points au moins aussi gros que leurs intervalles;poils du bord épipleural assez courts; épine humérale assez forte.Paramères : figure 5.Répartition : Europe centrale et orientale.Sibérie."
+        },
+        {
+          "nom_taxref":"Trox fabricii",
+          "nom_ouvrage":"Trox fabricii",
+          "description_ouvrage":"Pl. 1, c. - Long. 8-10 mm. Noir; pilosité jaune. Pronotum à sculpture trèsforte; les parties déprimées avec une ponctuation très grossière et très serrée;les parties relevées avec des gros points ombiliqués peu nombreux et despoints petits, simples, laissant des espaces bien lisses et luisants; côtés arrondisen arrière, un peu sinués avant les angles postérieurs qui sont bienmarqués; poils latéraux courts et larges, arrondis à l'apex. Elytres avec lesinterstries impairs larges et portant des gros tubercules arrondis présentantde quatre à sept poils très courts à leur bord postérieur; interstries pairs plusétroits, avec des tubercules bien plus petits; stries étroites, fortement sinueuses;poils de bord épi pleural courts; calus huméral absent, mais épinehumérale très forte. Espèce brachyptère. Paramères : figure 6.Répartition : Péninsule ibérique (loc. type), dont il semble occuper le centreet le sud aussi bien en Espagne qu'au Portugal. Sicile."
+        },
+        {
+          "nom_taxref":"Trox granulipennis",
+          "nom_ouvrage":"Trox granulipennis",
+          "description_ouvrage":"Long. 7 ,5-11 mm. Noir; pilosité jaune. Pronotum à sculpture forte; ponctuationdouble, les gros points ombiliqués, très denses sur les partiesdéprimées, moins denses sur les reliefs; côtés bien arrondis en arrière, sinuésavant les angles postérieurs bien saillants; poils latéraux longs, assez épais,régulièrement acuminés. Elytres avec les interstries de largeur égale, les tuberculesaplatis, rectangulaires, un peu plus relevés sur les interstries impairs,séparés par une distance égale à la moitié de leur longueur, avec deux àcinq poils épais et très courts à leur bord postérieur; stries étroites, droites;calus huméral bien saillant; épine humérale assez forte; poils du bord latéraltrès longs, assez fins, un peu flexueux. Paramères : figure 7.Répartition : Espagne, Andalousie. Caucase, sans précision.Tout le Nord de l'Afrique, depuis le Maroc (Tanger, lectotype, PITTINO,1983) jusqu'à l 'Egypte. Proche-Orient: Israël, Liban, Syrie. Les citationsd'Europe se situent donc aux deux extrémités de l'aire de répartition.Cette espèce a été souvent mal interprétée, malgré le caractère des longspoils du bord du pronotum et des élytres, qui ne peut entraîner aucune confusionavec quelque autre espèce, au moins pour la faune nord-africaine. PITTINO(1983) a publié une redescription détaillée et désigné le lectotype."
+        },
+        {
+          "nom_taxref":"Trox hispidus",
+          "nom_ouvrage":"Trox hispidus",
+          "description_ouvrage":"Long. 9-11 mm. Noir; pilosité jaune. Pronotum à sculpture forte; ponctuationgrosse, un peu irrégulière de taille, très dense sur les partiesdéprimées, à peine moins sur les reliefs qui sont peu luisants; côtés un peuarrondis en arrière, légèrement sinués avant les angles postérieurs qui sontsaillants; poils des côtés courts, larges, peu acuminés. Elytres avec les interstriesimpairs larges, portant des tubercules ovales bien convexes, séparéspar une distance très inférieure à leur longueur, avec quelques poils sur leurbord postérieur; interstries pairs beaucoup plus étroits, avec des tuberculesbien plus petits mais bien individualisés; stries larges comme la moitié desinterstries pairs, leurs bords carénés et sinueux; calus huméral saillant; épinehumérale très forte; poils du bord latéral courts. Paramères : figure 8.Répartition : Europe septentrionale (loc. type : Sjaelland, Danemark) et centrale; à l'Est jusqu'en Hongrie et Tchécoslovaquie, à l'Ouest jusqu'enAngleterre, France occidentale et la Péninsule ibérique.T. sordidatus Balthasar a été décrit comme sous-espèce de T. granulipennisFairmaire. PITTINO (1983: 277) a démontré qu'il ne peut y avoir aucun rapportentre les deux taxa. En fait, d'après PITTINO (1991 : 73), il s'agit d'une espèce distincte, mêlée à hispidus niger en Croatie, Grèce, etc. Voir addendump. 38. // "
+        },
+        {
+          "nom_taxref":"Trox hispidus ssp. niger",
+          "nom_ouvrage":"Trox hispidus ssp niger",
+          "description_ouvrage":"Trox hispidus ssp.(?) niger, Rossi. : iffère de la forme nominative par les caractères suivants : tubercules desinterstries impairs moins nombreux, la distance entre eux au moins égale àleur longueur; les poils situés à leur bord postérieur nettement plus longs.Tubercules des interstries pairs remplacés par des petits granules. Stries aussilarges que les interstries pairs.Répartition: Nord-Est de l'Espagne, France méridionale, toute l'Italie (Firenze,loc. type), Sud de l'Europe centrale, Balkans, Russie méridionale,Caucase. Il faut mentionner la présence simultanée de hispidus s.str. et deniger en Gironde.Turquie, Asie centrale."
+        },
+        {
+          "nom_taxref":"Trox klapperichi",
+          "nom_ouvrage":"Trox klapperichi",
+          "description_ouvrage":"Long. 8,5-11 mm. Noir; pilosité jaune. Pronot4m avec des reliefs assezatténués, bien luisants; ponctuation formée de gros points ombiliqués et depoints beaucoup plus petits, simples, les gros points abondants sur les zonesdéprimées, très épars sur les reliefs; côtés bien sinués avant les angles postérieursqui sont saillants; poils latéraux courts, épais, brièvement acuminés.Elytres avec des interstries d'égale largeur, les impairs avec des tuberculesronds ou ovales, séparés par une distance au plus égale à leur longueur, portantune rangée de deux à cinq poils courts au bord postérieur; inters triespairs avec des tubercules ronds bien plus petits; stries étroites, très ondulées;calus huméral très saillant; épine humérale forte; poils du bord épipleuralcourts. Paramères : figure 9.Répartition : Crimée. Rhodes.Jordanie (loc. type). Irak. Arabie. Iran. Israël. Syrie. Palestine. Turquie.Chypre."
+        },
+        {
+          "nom_taxref":"Trox leonardii",
+          "nom_ouvrage":"Trox leonardii",
+          "description_ouvrage":"Long. 9,5-12 mm. Noir; pilosité jaune. Pronotum avec une sculpture forte;reliefs bien luisants, avec une ponctuation très éparse formée de gros pointsombiliqués et de points très fins; les parties déprimées dépolies et à ponctuationtrès grosse mais guère plus dense; côtés bien arrondis en arrière,non sinués, les angles postérieurs peu visibles; poils latéraux plats, largeset courts, claviformes en avant arrondis en arrière. Elytres avec les interstriesplans, les impairs un peu plus larges et surélevés, avec des tubercules rectangulairesou ovales, séparés par une distance inférieure à la moitié de leurlongueur, bordés en arrière par une rangée de quatre à dix poils courts; interstriespairs avec des tubercules beaucoup plus petits, alternant parfoismême avec de simples granules; stries étroites, assez peu ondulées; calushuméral très saillant; épine humérale présente, assez peu développée; poilsdu bord épi pleural courts. Paramères : figure 1 O.Répartition : Espagne, sans précision. Portugal : Muge. Citations à confirmer.Egypte (loc. type). Toute l'Afrique du Nord. Israël."
+        },
+        {
+          "nom_taxref":"Trox leonardii",
+          "nom_ouvrage":"Trox leonardii",
+          "description_ouvrage":"Long. 9,5-12 mm. Noir; pilosité jaune. Pronotum avec une sculpture forte;reliefs bien luisants, avec une ponctuation très éparse formée de gros pointsombiliqués et de points très fins; les parties déprimées dépolies et à ponctuationtrès grosse mais guère plus dense; côtés bien arrondis en arrière,non sinués, les angles postérieurs peu visibles; poils latéraux plats, largeset courts, claviformes en avant arrondis en arrière. Elytres avec les interstriesplans, les impairs un peu plus larges et surélevés, avec des tubercules rectangulairesou ovales, séparés par une distance inférieure à la moitié de leurlongueur, bordés en arrière par une rangée de quatre à dix poils courts; interstriespairs avec des tubercules beaucoup plus petits, alternant parfoismême avec de simples granules; stries étroites, assez peu ondulées; calushuméral très saillant; épine humérale présente, assez peu développée; poilsdu bord épi pleural courts. Paramères : figure 1 O.Répartition : Espagne, sans précision. Portugal : Muge. Citations à confirmer.Egypte (loc. type). Toute l'Afrique du Nord. Israël."
+        },
+        {
+          "nom_taxref":"Trox litoralis",
+          "nom_ouvrage":"Trox litoralis",
+          "description_ouvrage":"Long. 8 mm. Noir; pilosité jaune. Pronotum entièrement mat, avec unesculpture forte; ponctuation grosse, irrégulière, les plus gros points ombiliqués,moins dense sur les reliefs, très serrée sur les zones déprimées; côtésarrondis en arrière et un peu sinués avant les· angles postérieurs qui sontbien marqués; poils des côtés épais, courts, br.ièvement acuminés. Elytresavec les interstries impairs munis de gros tubercules ovales très relevés, séparéspar une distance à peu près égale à leur longueur, portant des poils sur tout le tiers ou toute ,Ia moitié postérieure; interstries pairs plus étroits,avec des tubercules très petits, souvent même remplacés par de simples granules;stries aussi large que la molitié des interstries pairs, fortementondulées; calus huméral absent ; dent humérale épaisse, émoussée; poils dela marge externe courts. Espèce brachyptère. Paramères : figure 11.Répartition : Italie, Toscana (Monte di Lucilina, loc. type); côte tyrrhénienne;côte adriatique, au Nord de Gargano; Sicile. Malte. Yougoslavie(Dalmatie). Albanie. Grèce. Crète."
+        },
+        {
+          "nom_taxref":"Trox morticinii",
+          "nom_ouvrage":"Trox morticinii",
+          "description_ouvrage":"Long. 12-13 mm. Noir; pilosité jaune. Sculpture du pronotum très atténuée,constituée essentiellement d 'un très large sillon médian, peu profonden avant, effacé au milieu, plus profond en arrière; ponctuation assez forteet dense, mêlée de points fins sur le disque, plus forte, très dense sur lescôtés où elle donne naissance à des petits poils dressés ; de chaque côté dela fossette basale se trouve une petite plage imponctuée, ronde et un peurelevée; côtés fortement échancrés avant les angles postérieurs qui sontdroits; poils des côtés larges, aplatis, assez allongés, brièvement acuminés.Elytres avec les interstries de largeur à peu près égale; tubercules rectangulaires,un peu convexes, séparés par une distance très courte, portant unerangée de deux à six poils courts sur leur bord postérieur; stries peu ondulées,leurs bords non ou très peu carénés, avec des gros points séparés par unedistance à peu près égale à deux fois leur diamètre; calus huméral très saillant;épine humérale assez forte; poils du bord externe assez longs.Paramères : figure 12.Répartition: ne semble pas représenté en Europe; occupe l'URSS à l'Estde la Mer Caspienne et jusqu'en Sibérie orientale et Mongolie."
+        },
+        {
+          "nom_taxref":"Trox nodulosus",
+          "nom_ouvrage":"Trox nodulosus",
+          "description_ouvrage":"Long. 8- l 0 mm. Noir, pilosité jaune. Pronotum à sculpture très forte, lesreliefs avec une dense ponctuation irrégulière, les très gros points ombiliqués; parties déprimées à ponctuation très serrée, rugueuse; côtésconvergents vers l'avant presque depuis le tiers postérieur, presque parallèlesen arrière, légèrement concaves avant les angles postérieurs faiblement saillants;pilosité des côtés courte, un peu claviforme. Elytres avec les interstriesimpairs assez larges, portant des gros tubercules ovales, allongés, séparéspar une distance très inférieure à leur longueur, couverts de poils sur touteleur moitié postérieure; interstries pairs avec des tubercules beaucoup pluspetits, ronds, plus ou moins reliés aux tubercules des interstries impairs pardes grosses carènes transversales; stries plus larges que la moitié des interstries pairs, avec une très grosse ponctuation; calus huméral très saillant;epme humérale forte, épaisse; poils du bord externe courts. Paramères :figure 13.Répartition : Sardaigne, Corse, où il est vicariant de T. hispidus (Pont.).Cette espèce a été omise par ARROw (1912); pour TESAR (1957: 69), ceserait une ssp. de T. hispidus (Pont.); c'est aussi l'opinion de PITTINO (199169)."
+        },
+        {
+          "nom_taxref":"Trox perlatus perlatus",
+          "nom_ouvrage":"Trox perlatus perlatus",
+          "description_ouvrage":"Long. 8-12 mm. Noir; pilosité noire. Sculpture du pronotum très forte;les reliefs assez luisants, avec des très gros points ombiliqués, pas très nombreux,mêlés à des points très fins ; les parties déprimées à ponctuation trèsforte et très serrée; côtés nettement sinués avant les angles postérieurs quisont droits; poils des marges latérales épais et très courts. Elytres avec lesinterstries impairs larges, les tubercules grands, ovales, très convexes etlisses, séparés par une distance au moins égale à leur longueur, avec uneangée de poils très courts à leur bord postérieur; interstries pairs étroits,avec des tubercules petits, ronds, très épars; stries de largeur égale à la moitiéde celle des interstries pairs, très ondulées, leurs bords bien carénés; calushuméral absent; épine humérale très forte; poils du bord externe courts. Espècebrachyptère. Paramères : figure 14.Répartition : Europe occidentale : Angleterre, Belgique, France, Nord del'Espagne, Italie (seulement en Ligurie)."
+        },
+        {
+          "nom_taxref":"Trox perlatus hispanicus",
+          "nom_ouvrage":"Trox perlatus hispanicus",
+          "description_ouvrage":"Diffère de la forme nominative par les caractères suivants. Ponctuationdu pronotum plus dense sur les reliefs. Interstries élytraux pairs presque aussilarges que les impairs, avec des tubercules ronds, assez grands et denses.Stries paraissant de ce fait beaucoup plus étroites. Paramères : figure 15.Répartition : Espagne (sauf le Nord). Portugal.Considéré par certains comme une espèce distincte de T. perlatus; sonaspect est en effet tout autre, et les édéages sont un peu différents."
+        },
+
+        {
+          "nom_taxref":"Trox perrisi",
+          "nom_ouvrage":"Trox perrisi",
+          "description_ouvrage":"Long. 6 mm. Noir ou brun-noir; pilosité jaune. Sculpture du pronotumtrès atténuée; ponctuation assez fine, dense et régulière sur le disque, plusgrossière, serrée et irrégulière sur les côtés, avec une pilosité courte, épaisseet couchée; côtés un peu arrondis en arrière, non sinués avant les anglespostérieurs qui sont un peu obtus; poils des côtés courts, épais. Interstriesélytraux d'égale largeur, avec des petits tubercules allongés, un peu convexes,enchaînés les uns aux autres; stries indiquées par des gros points profonds,séparés par une distance à peu près égale à leur diamètre, entamant fortementle bord des interstries qui n'est pas du tout caréné; chaque tubercule avecquelques poils fins à son bord postérieur; poils du bord externe très courts, fins, très denses; calus huméral saillant; épine humérale très petite. Paramères : figure 16. Répartition : France. Allemagne. Italie : Lombardia, Emilia. Espagne : Salamanca, Madrid (L6PEZ CoL6N, 1988a et b)."
+        },
+        {
+          "nom_taxref":"Trox sabulosus",
+          "nom_ouvrage":"Trox sabulosus",
+          "description_ouvrage":"Long. 8-10 mm. Noir; pilosité jaune. Sculpture du pronotum très grossière;ponctuation forte, régulière, ombiliquée, un peu moins dense sur lesreliefs, très serrée sur les parties déprimées; côtés bien arrondis en arrière,très légèrement sinués avant les angles postérieurs légèrement saillants; poilsdes côtés épais, courts. Interstries élytraux impairs avec des tubercules peuconvexes rectangulaires, allongés, séparés par une distance égale à leur longueur,entièrement couverts de poils denses et courts; inters tries pairs étroits,avec des tubercules petits, distants de deux fois leur longueur; stries presquedroites, à bords carénés, leur largeur supérieure à la moitié de celle des interstriespairs, avec des gros points profonds séparés par des crêtestransversales larges comme deux ou trois fois leur diamètre; calus huméraltrès saillant; épine humérale très forte; poils du bord externe courts. Paramères: figure 17.Répartition: toute l'Europe, depuis la Grande-Bretagne jusqu'à l'URSSet en Sibérie. Manque dans le Sud de l'Espagne, de l'Italie, de la Yougoslavie,et en Grèce."
+        },
+        {
+          "nom_taxref":"Trox scaber",
+          "nom_ouvrage":"Trox scaber",
+          "description_ouvrage":"Long. 5-7 mm. Noir; pilosité jaune. Sculpture du pronotum très superficielle;ponctuation moyenne, simple, dense, à peu près régulière de taille,plus grosse et plus serrée sur les côtés qui sont fortement et largement aplatis;côtés peu arrondis en arrière, faiblement sinués avant les angles postérieurslégèrement saillants; poils des côtés épais et courts. Scutellum allongé, peuélargi à la base. Interstries élytraux impairs un peu plus larges, avec destubercules petits, ovales, peu relevés mais entourés de poils courts, séparéspar une distance égale à leur longueur; interstries pairs plans, avec des tuhercules peu visibles; stries étroites, avec des points gros et profonds, distantsde plusieurs fois leur diamètre; calus huméral saillant; dent huméraletrès petite; poils du bord externe courts. Paramères : figure 18.Répartition : toute l'Europe.Sibérie. Maroc. Algérie. Iles Canaries. Amérique du Nord. Chili. Australie."
+        },
+        {
+          "nom_taxref":"Trox transversus",
+          "nom_ouvrage":"Trox transversus",
+          "description_ouvrage":"Long. 7-10 mm. Noir; pilosité jaune. Pronotum avec une structure trèsgrossière; reliefs bien luisants, avec une ponctuation éparse, très superficielle,formée d'un mélange de très gros points ombiliqués, de petits pointssimples et de points très petits; parties déprimées avec des gros points ombiliquéstrès serrés; côtés arrondis en arrière, puis fortement échancrés avantles angles postérieurs; base également nettement sinuée avant les angles latérauxqui, de ce fait sont très saillants; poils des côtés pas très épais, courts.Sculpture des élytres semblable à celle de T. cribrum Gené, avec des grossescarènes tansversales reliant les interstries entre eux et isolant des gros pointsprofonds, allongés, vestiges des stries; pas de tubercules visibles, mais ilssont cependant repérables sur les interstries impairs par des groupes de poils;calus huméral absent; épine humérale forte; poils du bord externe courts.Espèce brachyptère. Paramères : figure 19.Répartition : Grèce (loc. type).Syrie. Chypre. Turquie, où il serait représenté par la ssp. demaisoni Reitterà sculpture élytrale atténuée."
+        },
+        {
+          "nom_taxref":"Trox sordidatus",
+          "nom_ouvrage":"Trox sordidatus",
+          "description_ouvrage":"Long. 9-11,6 mm. Cette espèce ressemble beaucoup à hispidus (Pont.) età sa ssp. niger Rossi. Elle s'en distingue pourtant aisément par les côtés dupronotum nettement sinués au niveau des angles postérieurs, par le reliefobsolète du pronotum, par les tubercules plus petits sur les interstries élytrauximpairs et la disposition en U des petits poils courts et dressés sur leur bordpostérieur. La forme de l 'édéage est également différente.Répartition : Croatie. Grèce (Attique, loc. type). Crète. Cyclades. Rhodes.Bulgarie. - Turquie."
+        }
+      ]
+  
+
+}
